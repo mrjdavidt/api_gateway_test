@@ -3,6 +3,7 @@
 import requests
 # This is a sample web scrapper that I am constructing using an outline from the GeeksForGeeks.com website 
 #This script is going to work in conjunction with a website I host for testing purposes 
+##code name : scrappy. This is some ugly code 
 from bs4 import BeautifulSoup
 import csv
 
